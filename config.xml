@@ -2,13 +2,13 @@
 
  <widget xmlns = "http://www.w3.org/ns/widgets"
   xmlns:gap = "http://phonegap.com/ns/1.0"
-  id = "com.phonegap.app5"
+  id = "com.phonegap.app6"
   version = "1.0.0">
   
  <name>app5 Batalla del 5 de mayo</name>
   
  <description>
-   Aplicacion que muestra informacion acerca de la batalla del 4 y 5 de mayo, sus heroes y monumentos egidos en base a ella
+   Aplicacion que muestra informacion acerca de la batalla del 4 y 5 de mayo, sus heroes y monumentos erigidos en base a ella
  </description>
   
  <author href="https://build.phonegap.com" email="joseFranco1402@gmail.com">
